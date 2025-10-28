@@ -7,11 +7,11 @@ Aplikasi ini dibuat sebagai proyek **UTS Mobile Programming**.
 
 ## 🚀 Fitur Utama
 
-- 🏠 **Halaman Home** — Menampilkan daftar produk roti dari data JSON lokal  
-- 🍩 **Halaman Detail Produk** — Menampilkan informasi detail setiap produk  
-- 🛒 **Halaman Keranjang (Cart)** — Menambahkan dan menghapus produk yang dipilih  
-- 📦 **Data Lokal (Offline)** — Menggunakan file JSON (`assets/data/items.json`) sebagai sumber data  
-- 🎨 **UI Menarik dan Responsif** — Desain modern dan mudah digunakan  
+-  **Halaman Home** — Menampilkan daftar produk roti dari data JSON lokal  
+-  **Halaman Detail Produk** — Menampilkan informasi detail setiap produk  
+-  **Halaman Keranjang (Cart)** — Menambahkan dan menghapus produk yang dipilih  
+-  **Data Lokal (Offline)** — Menggunakan file JSON (`assets/data/items.json`) sebagai sumber data  
+-  **UI Menarik dan Responsif** — Desain modern dan mudah digunakan  
 
 ---
 
