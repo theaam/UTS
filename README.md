@@ -16,5 +16,5 @@ Aplikasi ini dibuat sebagai proyek **UTS Mobile Programming**.
 ---
 
 ## 🧱 Struktur Folder
-<img width="321" height="883" alt="Screenshot 2025-10-28 213754" src="https://github.com/user-attachments/assets/2aa721da-0201-4c4f-8956-fe302d5a8246" />
+<img width="100" height="330" alt="Screenshot 2025-10-28 213754" src="https://github.com/user-attachments/assets/2aa721da-0201-4c4f-8956-fe302d5a8246" />
 
