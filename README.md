@@ -1,16 +1,19 @@
-# project_uts
+# 🍰 Celeo - Toko Roti Flutter App
 
-A new Flutter project.
+**Celeo** adalah aplikasi mobile berbasis **Flutter** yang dirancang untuk menampilkan daftar produk roti, detail produk, dan fitur keranjang belanja sederhana.  
+Aplikasi ini dibuat sebagai proyek **UTS Mobile Programming**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Fitur Utama
 
-A few resources to get you started if this is your first Flutter project:
+- 🏠 **Halaman Home** — Menampilkan daftar produk roti dari data JSON lokal  
+- 🍩 **Halaman Detail Produk** — Menampilkan informasi detail setiap produk  
+- 🛒 **Halaman Keranjang (Cart)** — Menambahkan dan menghapus produk yang dipilih  
+- 📦 **Data Lokal (Offline)** — Menggunakan file JSON (`assets/data/items.json`) sebagai sumber data  
+- 🎨 **UI Menarik dan Responsif** — Desain modern dan mudah digunakan  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧱 Struktur Folder
+
