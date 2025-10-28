@@ -1,0 +1,42 @@
+[
+  {
+    "id": "p1",
+    "name": "Croissant Mentega",
+    "description": "Croissant klasik Prancis yang renyah di luar dan lembut di dalam, dibuat dengan mentega premium. Sempurna untuk sarapan.",
+    "price": 18000,
+    "imageUrl": "assets/images/croissant.jpg",
+    "category": "Pastry"
+  },
+  {
+    "id": "p2",
+    "name": "Roti Tawar Gandum",
+    "description": "Roti tawar sehat dibuat dari 100% gandum utuh, kaya serat dan nutrisi. Cocok untuk sandwich atau toast.",
+    "price": 25000,
+    "imageUrl": "assets/images/gandum.jpg",
+    "category": "Roti"
+  },
+  {
+    "id": "p3",
+    "name": "Baguette Klasik",
+    "description": "Baguette ala Paris dengan kerak yang garing dan remah yang lembut. Ideal untuk dinikmati dengan keju atau sup.",
+    "price": 22000,
+    "imageUrl": "assets/images/baguette.jpg",
+    "category": "Roti"
+  },
+  {
+    "id": "p4",
+    "name": "Cinnamon Roll",
+    "description": "Gulungan kayu manis yang lembut dengan frosting keju krim yang melimpah. Manis dan sangat memanjakan.",
+    "price": 23000,
+    "imageUrl": "assets/images/cinnamon.jpg",
+    "category": "Pastry"
+  },
+  {
+    "id": "p5",
+    "name": "Donat Cokelat",
+    "description": "Donat empuk dengan glasir cokelat premium dan taburan meses warna-warni.",
+    "price": 12000,
+    "imageUrl": "assets/images/donut.jpg",
+    "category": "Manis"
+  }
+]
