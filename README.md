@@ -32,4 +32,7 @@ Aplikasi ini dibuat sebagai proyek **UTS Mobile Programming**.
 ## 📸 Tampilan Aplikasi (Preview)
 | Home Page | Detail Page | Cart Page |
 | --------- | ----------- | --------- |
-| 🏠        | 🍩          | 🛒        |
+|![Screenshot_2025-10-28-21-51-59-973_com example project_uts](https://github.com/user-attachments/assets/7c351282-cd3c-4a60-8729-5743e6652152)
+         |![Screenshot_2025-10-28-21-52-15-425_com example project_uts](https://github.com/user-attachments/assets/9c09185f-812c-4abc-a152-5b18c7acbb17)
+           |![Screenshot_2025-10-28-21-55-02-089_com example project_uts](https://github.com/user-attachments/assets/f33aa105-e4cb-4267-9a77-24ca7722007a)
+         |
